@@ -6,7 +6,7 @@ public class Q13_InvertedPyramid {
             }
             for(int j = 1; j <= 2*(5-i)+1; j++){
                 System.out.print("*");
-            }System.out.println();;
+            }System.out.println();
         }
     }
 }
